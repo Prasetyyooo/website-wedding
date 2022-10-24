@@ -1,26 +1,26 @@
-*{
+* {
   box-sizing: border-box;
   padding: 0px;
   margin: 0px;
 }
 
-body{
+body {
   background: white;
 }
 
-.container{
+.container {
   display: flex;
   justify-content: center;
 }
 
-.card{
+.card {
   background: white;
   width: 270px;
   height: 400px;
   margin: 10px;
 }
 
-.card-image{
+.card-image {
   background-color: aqua;
   height: 150px;
   margin-bottom: 15px;
